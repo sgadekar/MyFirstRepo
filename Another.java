@@ -1,1 +1,3 @@
-class Another{}
+class Another{
+	private int x = 5;
+}
